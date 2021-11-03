@@ -74,3 +74,6 @@ def factorial(a: Union[int, float]):
         return 1
     else:
         return a*factorial(a-1)
+        
+def integral(a,b):
+    return "Dont to integrals, they're hard."
