@@ -17,3 +17,6 @@ def divider(a: Union[int, float], b: Union[int, float]):
         Function divides values from args a and b^2
     """
     return a/(b*b)
+
+def integral(a,b):
+    return "Dont to integrals, they're hard."
